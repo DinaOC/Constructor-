@@ -1,4 +1,48 @@
-* {
-  width:60%;
-  margin: 0 auto;
+
+#main {
+  width:80%;
+  margin-left: 10%;
+  height: 100px;
+  background-color: black;
+
+}
+ h1 {
+   color: white;
+   text-align: center;
+   font-family: 'Indie Flower';
+   letter-spacing: 2px;
+   padding: 2px;
+
+ }
+
+ .center {
+   width:80%;
+   height: 600px;
+   margin-left: 10%;
+   background-color: #7D7F81;
+ }
+
+
+h3 {
+  color: white;
+  font-family: 'Indie Flower';
+  text-align: center;
+  font-size: 28px;
+  padding: 1px;
+}
+
+.good, .bad {
+  width: 150px;
+  height: 150px;
+  margin-top: 20px;
+  padding: 3px;
+  border-radius: 10px;px;
+}
+
+.good {
+  margin-left: 40px;
+}
+
+.bad {
+margin-left: 615px;
 }
